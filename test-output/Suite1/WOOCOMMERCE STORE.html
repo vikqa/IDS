@@ -1,0 +1,258 @@
+<html>
+<head>
+<title>TestNG:  WOOCOMMERCE STORE</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>WOOCOMMERCE STORE</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>0/0/18</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Feb 14 12:26:42 IST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>153 seconds (153294 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED CONFIGURATIONS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.setup()'><b>setup</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Parameters: chrome, http://st9.idsil.com/test/baldev/woocommerce</td>
+<td><div><pre>org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 130.94 seconds
+Build info: version: &apos;2.52.0&apos;, revision: &apos;4c2593c&apos;, time: &apos;2016-02-11 19:06:42&apos;
+System info: host: &apos;01-011903&apos;, ip: &apos;192.168.76.152&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_191&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58610}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir9224_4149}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=72.0.3626.109, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4a9c3b2ba81c867c7e2929bcf5ead17e
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:969)
+	at com.ids.store.pom.Tests.HomeTests.setup(HomeTests.java:34)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1617838096", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1617838096'><pre>org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 130.94 seconds
+Build info: version: &apos;2.52.0&apos;, revision: &apos;4c2593c&apos;, time: &apos;2016-02-11 19:06:42&apos;
+System info: host: &apos;01-011903&apos;, ip: &apos;192.168.76.152&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_191&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58610}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir9224_4149}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=72.0.3626.109, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4a9c3b2ba81c867c7e2929bcf5ead17e
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.to(RemoteWebDriver.java:969)
+	at com.ids.store.pom.Tests.HomeTests.setup(HomeTests.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:170)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:104)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-skipped'>
+<tr><td colspan='4' align='center'><b>SKIPPED CONFIGURATIONS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.tearDown()'><b>tearDown</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-skipped'>
+<tr><td colspan='4' align='center'><b>SKIPPED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_continue_shop()'><b>To_verify_continue_shop</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_default_values_forMyaccountprofile()'><b>To_verify_default_values_forMyaccountprofile</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_default_values_for_Myaccount()'><b>To_verify_default_values_for_Myaccount</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_default_values_for_Search_Box()'><b>To_verify_default_values_for_Search_Box</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_default_values_for_enterregisteremail()'><b>To_verify_default_values_for_enterregisteremail</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_default_values_for_logout()'><b>To_verify_default_values_for_logout</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_default_values_for_register()'><b>To_verify_default_values_for_register</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_default_values_forenter_invalid_loginCredentials()'><b>To_verify_default_values_forenter_invalid_loginCredentials</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_default_values_forloginpage()'><b>To_verify_default_values_forloginpage</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_default_values_navigatetoeditdetails()'><b>To_verify_default_values_navigatetoeditdetails</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoaddcart()'><b>To_verify_navigatetoaddcart</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_navigatetocart()'><b>To_verify_navigatetocart</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_navigatetocheckout()'><b>To_verify_navigatetocheckout</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_navigatetocheckoutaddress()'><b>To_verify_navigatetocheckoutaddress</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoeditbillingaddress()'><b>To_verify_navigatetoeditbillingaddress</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_navigatetohomeagain()'><b>To_verify_navigatetohomeagain</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced()'><b>To_verify_navigatetoorderplaced</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+<tr>
+<td title='com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoshippingaddress()'><b>To_verify_navigatetoshippingaddress</b><br>Test class: com.ids.store.pom.Tests.HomeTests (To_verify_navigatetohomeagain)<br>Test method: Default values should visible for each textbox.</td>
+<td></td>
+<td>0</td>
+<td>com.ids.store.pom.Tests.HomeTests@eec5a4a</td></tr>
+</table><p>
+</body>
+</html>

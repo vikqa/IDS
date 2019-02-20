@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <parameter name="baseURL" value="http://st9.idsil.com/test/baldev/woocommerce"/>
+  <parameter name="browserVer" value="chrome"/>
+  <listeners>
+    <listener class-name="com.ids.store.utilities.TestListener"/>
+    <listener class-name="com.ids.store.utilities.ExtentReporterNG"/>
+  </listeners>
+  <test name="WOOCOMMERCE STORE(failed)">
+    <parameter name="browserVer" value="chrome"/>
+    <classes>
+      <class name="com.ids.store.pom.Tests.HomeTests">
+        <methods>
+          <include name="To_verify_default_values_for_enterregisteremail"/>
+          <include name="To_verify_navigatetocart"/>
+          <include name="To_verify_default_values_for_Myaccount"/>
+          <include name="To_verify_navigatetoeditbillingaddress"/>
+          <include name="To_verify_navigatetoaddcart"/>
+          <include name="To_verify_navigatetohomeagain"/>
+          <include name="setup"/>
+          <include name="To_verify_navigatetocheckout"/>
+          <include name="To_verify_default_values_for_logout"/>
+          <include name="To_verify_navigatetoshippingaddress"/>
+          <include name="extractTestNameFromParameters"/>
+          <include name="To_verify_navigatetocheckoutaddress"/>
+          <include name="To_verify_default_values_forMyaccountprofile"/>
+          <include name="To_verify_default_values_forenter_invalid_loginCredentials"/>
+          <include name="To_verify_continue_shop"/>
+          <include name="To_verify_default_values_for_register"/>
+          <include name="To_verify_default_values_forloginpage"/>
+          <include name="To_verify_default_values_navigatetoeditdetails"/>
+          <include name="To_verify_navigatetoorderplaced"/>
+          <include name="To_verify_default_values_for_Search_Box"/>
+        </methods>
+      </class> <!-- com.ids.store.pom.Tests.HomeTests -->
+    </classes>
+  </test> <!-- WOOCOMMERCE STORE(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

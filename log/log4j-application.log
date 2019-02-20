@@ -1,0 +1,1559 @@
+2019-01-10 11:50:04 INFO  Topnavigation:30 - Entered email
+2019-01-10 11:50:04 INFO  Topnavigation:43 - entered enterLastName
+2019-01-10 11:50:04 INFO  Topnavigation:54 - Submit button clicked
+2019-01-10 11:50:11 INFO  Topnavigation:65 - Submit button clicked
+2019-01-10 11:50:15 INFO  MyAccount:85 - button clicked
+2019-01-10 11:50:15 INFO  TestListener:103 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 11:50:15 INFO  TestListener:84 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 11:50:15 INFO  MyAccount:395 - Edit Phone
+2019-01-10 11:50:15 INFO  MyAccount:407 - Edit Email
+2019-01-10 11:50:15 INFO  MyAccount:419 - edit password
+2019-01-10 11:50:21 INFO  MyAccount:432 - Submit button clicked
+2019-01-10 11:50:21 INFO  TestListener:103 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 11:50:21 INFO  TestListener:84 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 11:50:26 INFO  MyAccount:97 - button clicked
+2019-01-10 11:50:29 INFO  MyAccount:108 - button clicked
+2019-01-10 11:50:29 INFO  MyAccount:278 - Edit Phone
+2019-01-10 11:50:29 INFO  MyAccount:290 - Edit Email
+2019-01-10 11:50:29 INFO  MyAccount:302 - edit password
+2019-01-10 11:50:29 INFO  MyAccount:313 - edit password
+2019-01-10 11:50:29 INFO  MyAccount:324 - edit password
+2019-01-10 11:50:29 INFO  MyAccount:335 - edit password
+2019-01-10 11:50:30 INFO  MyAccount:346 - edit password
+2019-01-10 11:50:30 INFO  MyAccount:357 - edit password
+2019-01-10 11:50:35 INFO  MyAccount:371 - Submit button clicked
+2019-01-10 11:50:35 INFO  TestListener:103 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 11:50:35 INFO  TestListener:84 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 11:50:38 INFO  MyAccount:66 - button clicked
+2019-01-10 11:50:38 INFO  MyAccount:140 - Edit Phone
+2019-01-10 11:50:38 INFO  MyAccount:152 - Edit Email
+2019-01-10 11:50:38 INFO  MyAccount:164 - edit password
+2019-01-10 11:50:38 INFO  MyAccount:175 - edit password
+2019-01-10 11:50:38 INFO  MyAccount:186 - edit password
+2019-01-10 11:50:39 INFO  MyAccount:197 - edit password
+2019-01-10 11:50:39 INFO  MyAccount:208 - edit password
+2019-01-10 11:50:39 INFO  MyAccount:219 - edit password
+2019-01-10 11:50:43 INFO  MyAccount:232 - Submit button clicked
+2019-01-10 11:50:44 INFO  TestListener:103 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 11:50:44 INFO  TestListener:84 - To_verify_navigatetocart Test Case started
+2019-01-10 11:50:46 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 11:50:48 INFO  TestListener:103 - To_verify_navigatetocart Test Case passed
+2019-01-10 11:50:48 INFO  TestListener:84 - To_verify_continue_shop Test Case started
+2019-01-10 11:50:51 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 11:50:53 INFO  TestListener:103 - To_verify_continue_shop Test Case passed
+2019-01-10 11:50:53 INFO  TestListener:84 - To_verify_navigatetocheckout Test Case started
+2019-01-10 11:50:56 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 11:50:58 INFO  TestListener:103 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 11:50:58 INFO  TestListener:84 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 11:50:58 INFO  Home:35 - Submit button clicked
+2019-01-10 11:51:06 INFO  Home:48 - Submit button clicked
+2019-01-10 11:51:09 INFO  Home:59 - Submit button clicked
+2019-01-10 11:51:10 INFO  TestListener:103 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 11:51:10 INFO  TestListener:84 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 11:51:10 INFO  MyAccount:278 - Edit Phone
+2019-01-10 11:51:10 INFO  MyAccount:290 - Edit Email
+2019-01-10 11:51:10 INFO  MyAccount:302 - edit password
+2019-01-10 11:51:10 INFO  MyAccount:313 - edit password
+2019-01-10 11:51:10 INFO  MyAccount:324 - edit password
+2019-01-10 11:51:11 INFO  MyAccount:335 - edit password
+2019-01-10 11:51:11 INFO  MyAccount:346 - edit password
+2019-01-10 11:51:11 INFO  MyAccount:357 - edit password
+2019-01-10 11:51:11 INFO  TestListener:103 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 11:51:11 INFO  TestListener:84 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 11:51:11 INFO  Home:36 - Submit button clicked
+2019-01-10 11:51:14 INFO  Home:52 - Submit button clicked
+2019-01-10 11:51:15 INFO  TestListener:103 - To_verify_navigatetoorderplaced Test Case passed
+2019-01-10 11:51:16 INFO  TestListener:41 - Test Cases Execution Finished 
+2019-01-10 12:21:57 INFO  TestListener:48 - Test Cases Execution Started
+2019-01-10 12:22:04 INFO  BrowserDriver:40 - chrome driver ready for testing
+2019-01-10 12:22:16 INFO  TestListener:84 - To_verify_default_values_for_register Test Case started
+2019-01-10 12:22:19 INFO  Topnavigation:37 - Verify click Myaccount on menu bar for Register
+2019-01-10 12:22:21 INFO  TestListener:103 - To_verify_default_values_for_register Test Case passed
+2019-01-10 12:22:21 INFO  TestListener:84 - To_verify_default_values_for_enterregisteremail Test Case started
+2019-01-10 12:22:21 INFO  Home:34 - entered Email in textbox on register page
+2019-01-10 12:22:33 INFO  Home:47 - Register button clicked
+2019-01-10 12:22:34 INFO  TestListener:103 - To_verify_default_values_for_enterregisteremail Test Case passed
+2019-01-10 12:22:34 INFO  TestListener:84 - To_verify_default_values_for_logout Test Case started
+2019-01-10 12:22:44 INFO  MyAccount:40 - logout from my account clicked
+2019-01-10 12:22:44 INFO  TestListener:103 - To_verify_default_values_for_logout Test Case passed
+2019-01-10 12:22:44 INFO  TestListener:84 - To_verify_default_values_forloginpage Test Case started
+2019-01-10 12:22:44 INFO  Topnavigation:30 - Entered email
+2019-01-10 12:22:44 INFO  Topnavigation:43 - entered password
+2019-01-10 12:22:44 INFO  Topnavigation:54 - remeberme checkbox selected
+2019-01-10 12:22:50 INFO  Topnavigation:65 - login button clicked
+2019-01-10 12:22:54 INFO  MyAccount:85 - editaccountdetails clicked
+2019-01-10 12:22:54 INFO  TestListener:103 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 12:22:54 INFO  TestListener:84 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 12:22:54 INFO  MyAccount:395 - Edit firstname
+2019-01-10 12:22:54 INFO  MyAccount:407 - Edit lastname
+2019-01-10 12:22:54 INFO  MyAccount:419 - edit account_display_name
+2019-01-10 12:23:01 INFO  MyAccount:432 - clickedsavedetails button clicked
+2019-01-10 12:23:01 INFO  TestListener:103 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 12:23:01 INFO  TestListener:84 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 12:23:04 INFO  MyAccount:97 - editaaddressdetails clicked
+2019-01-10 12:23:07 INFO  MyAccount:108 - billingaddress clicked
+2019-01-10 12:23:07 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 12:23:07 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 12:23:07 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 12:23:08 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 12:23:08 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 12:23:08 INFO  MyAccount:335 - edit billingcity
+2019-01-10 12:23:08 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 12:23:08 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 12:23:13 INFO  MyAccount:371 - Submit billing_save_address clicked
+2019-01-10 12:23:13 INFO  TestListener:103 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 12:23:13 INFO  TestListener:84 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 12:23:16 INFO  MyAccount:66 - editshippingdetails clicked
+2019-01-10 12:23:16 INFO  MyAccount:140 -  firstnameshipping in textbox
+2019-01-10 12:23:16 INFO  MyAccount:152 - Edit lastnameshipping
+2019-01-10 12:23:16 INFO  MyAccount:164 - edit shippingcompanyname
+2019-01-10 12:23:16 INFO  MyAccount:175 - edit shippingaddress1
+2019-01-10 12:23:16 INFO  MyAccount:186 - edit shippingaddress2
+2019-01-10 12:23:16 INFO  MyAccount:197 - edit shippingcity
+2019-01-10 12:23:16 INFO  MyAccount:208 - edit shippingpostcode
+2019-01-10 12:23:17 INFO  MyAccount:219 - edit shipping_phone
+2019-01-10 12:23:21 INFO  MyAccount:232 - shipping_save_address button clicked
+2019-01-10 12:23:21 INFO  TestListener:103 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 12:23:21 INFO  TestListener:84 - To_verify_navigatetocart Test Case started
+2019-01-10 12:23:23 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 12:23:26 INFO  TestListener:103 - To_verify_navigatetocart Test Case passed
+2019-01-10 12:23:26 INFO  TestListener:84 - To_verify_continue_shop Test Case started
+2019-01-10 12:23:30 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 12:23:32 INFO  TestListener:103 - To_verify_continue_shop Test Case passed
+2019-01-10 12:23:32 INFO  TestListener:84 - To_verify_navigatetocheckout Test Case started
+2019-01-10 12:23:35 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 12:23:37 INFO  TestListener:103 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 12:23:37 INFO  TestListener:84 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 12:23:37 INFO  Home:35 - Productadd button clicked
+2019-01-10 12:23:46 INFO  Home:48 - Viewcart button clicked
+2019-01-10 12:23:49 INFO  Home:59 - checkout button clicked
+2019-01-10 12:23:50 INFO  TestListener:103 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 12:23:50 INFO  TestListener:84 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 12:23:50 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 12:23:50 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 12:23:50 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 12:23:50 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 12:23:51 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 12:23:51 INFO  MyAccount:335 - edit billingcity
+2019-01-10 12:23:51 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 12:23:51 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 12:23:51 INFO  TestListener:103 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 12:23:51 INFO  TestListener:84 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 12:23:51 INFO  Home:36 - Select Cash on delivery button clicked
+2019-01-10 12:23:54 INFO  Home:52 - Order Placed button clicked
+2019-01-10 12:23:55 INFO  TestListener:103 - To_verify_navigatetoorderplaced Test Case passed
+2019-01-10 12:23:55 INFO  TestListener:41 - Test Cases Execution Finished 
+2019-01-10 13:12:44 INFO  TestListener:48 - Test Cases Execution Started
+2019-01-10 13:12:54 INFO  BrowserDriver:40 - chrome driver ready for testing
+2019-01-10 13:13:03 INFO  TestListener:84 - To_verify_default_values_for_register Test Case started
+2019-01-10 13:13:06 INFO  Topnavigation:37 - Verify click Myaccount on menu bar for Register
+2019-01-10 13:13:08 INFO  TestListener:103 - To_verify_default_values_for_register Test Case passed
+2019-01-10 13:13:08 INFO  TestListener:84 - To_verify_default_values_for_enterregisteremail Test Case started
+2019-01-10 13:13:09 INFO  Home:34 - entered Email in textbox on register page
+2019-01-10 13:13:22 INFO  Home:47 - Register button clicked
+2019-01-10 13:13:23 INFO  TestListener:103 - To_verify_default_values_for_enterregisteremail Test Case passed
+2019-01-10 13:13:23 INFO  TestListener:84 - To_verify_default_values_for_logout Test Case started
+2019-01-10 13:13:31 INFO  MyAccount:40 - logout from my account clicked
+2019-01-10 13:13:31 INFO  TestListener:103 - To_verify_default_values_for_logout Test Case passed
+2019-01-10 13:13:31 INFO  TestListener:84 - To_verify_default_values_forloginpage Test Case started
+2019-01-10 13:13:31 INFO  Topnavigation:30 - Entered email
+2019-01-10 13:13:31 INFO  Topnavigation:43 - entered password
+2019-01-10 13:13:31 INFO  Topnavigation:54 - remeberme checkbox selected
+2019-01-10 13:13:37 INFO  Topnavigation:65 - login button clicked
+2019-01-10 13:13:40 INFO  MyAccount:85 - editaccountdetails clicked
+2019-01-10 13:13:41 INFO  TestListener:103 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 13:13:41 INFO  TestListener:84 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 13:13:41 INFO  MyAccount:395 - Edit firstname
+2019-01-10 13:13:41 INFO  MyAccount:407 - Edit lastname
+2019-01-10 13:13:41 INFO  MyAccount:419 - edit account_display_name
+2019-01-10 13:13:46 INFO  MyAccount:432 - clickedsavedetails button clicked
+2019-01-10 13:13:46 INFO  TestListener:103 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 13:13:46 INFO  TestListener:84 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 13:13:48 INFO  MyAccount:97 - editaaddressdetails clicked
+2019-01-10 13:13:51 INFO  MyAccount:108 - billingaddress clicked
+2019-01-10 13:13:51 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 13:13:51 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 13:13:51 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 13:13:51 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 13:13:51 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 13:13:51 INFO  MyAccount:335 - edit billingcity
+2019-01-10 13:13:51 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 13:13:52 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 13:13:56 INFO  MyAccount:371 - Submit billing_save_address clicked
+2019-01-10 13:13:56 INFO  TestListener:103 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 13:13:56 INFO  TestListener:84 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 13:13:58 INFO  MyAccount:66 - editshippingdetails clicked
+2019-01-10 13:13:58 INFO  MyAccount:140 -  firstnameshipping in textbox
+2019-01-10 13:13:59 INFO  MyAccount:152 - Edit lastnameshipping
+2019-01-10 13:13:59 INFO  MyAccount:164 - edit shippingcompanyname
+2019-01-10 13:13:59 INFO  MyAccount:175 - edit shippingaddress1
+2019-01-10 13:13:59 INFO  MyAccount:186 - edit shippingaddress2
+2019-01-10 13:13:59 INFO  MyAccount:197 - edit shippingcity
+2019-01-10 13:13:59 INFO  MyAccount:208 - edit shippingpostcode
+2019-01-10 13:13:59 INFO  MyAccount:219 - edit shipping_phone
+2019-01-10 13:14:03 INFO  MyAccount:232 - shipping_save_address button clicked
+2019-01-10 13:14:04 INFO  TestListener:103 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 13:14:04 INFO  TestListener:84 - To_verify_navigatetocart Test Case started
+2019-01-10 13:14:06 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 13:14:08 INFO  TestListener:103 - To_verify_navigatetocart Test Case passed
+2019-01-10 13:14:08 INFO  TestListener:84 - To_verify_continue_shop Test Case started
+2019-01-10 13:14:11 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 13:14:13 INFO  TestListener:103 - To_verify_continue_shop Test Case passed
+2019-01-10 13:14:13 INFO  TestListener:84 - To_verify_navigatetocheckout Test Case started
+2019-01-10 13:14:15 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 13:14:18 INFO  TestListener:103 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 13:14:18 INFO  TestListener:84 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 13:14:18 INFO  Home:34 - Productadd button clicked
+2019-01-10 13:14:26 INFO  Home:47 - Viewcart button clicked
+2019-01-10 13:14:29 INFO  Home:58 - checkout button clicked
+2019-01-10 13:14:30 INFO  TestListener:103 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 13:14:30 INFO  TestListener:84 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 13:14:30 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 13:14:30 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 13:14:30 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 13:14:31 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 13:14:31 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 13:14:31 INFO  MyAccount:335 - edit billingcity
+2019-01-10 13:14:31 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 13:14:31 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 13:14:32 INFO  TestListener:103 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 13:14:32 INFO  TestListener:84 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 13:14:32 INFO  Home:36 - Select Cash on delivery button clicked
+2019-01-10 13:14:35 INFO  Home:52 - Order Placed button clicked
+2019-01-10 13:14:35 INFO  TestListener:103 - To_verify_navigatetoorderplaced Test Case passed
+2019-01-10 13:14:36 INFO  TestListener:41 - Test Cases Execution Finished 
+2019-01-10 13:18:22 INFO  TestListener:48 - Test Cases Execution Started
+2019-01-10 13:18:30 INFO  BrowserDriver:40 - chrome driver ready for testing
+2019-01-10 13:18:38 INFO  TestListener:84 - To_verify_default_values_for_register Test Case started
+2019-01-10 13:18:41 INFO  Topnavigation:37 - Verify click Myaccount on menu bar for Register
+2019-01-10 13:18:43 INFO  TestListener:103 - To_verify_default_values_for_register Test Case passed
+2019-01-10 13:18:43 INFO  TestListener:84 - To_verify_default_values_for_enterregisteremail Test Case started
+2019-01-10 13:18:43 INFO  Home:34 - entered Email in textbox on register page
+2019-01-10 13:18:56 INFO  Home:47 - Register button clicked
+2019-01-10 13:18:56 INFO  TestListener:103 - To_verify_default_values_for_enterregisteremail Test Case passed
+2019-01-10 13:18:56 INFO  TestListener:84 - To_verify_default_values_for_logout Test Case started
+2019-01-10 13:19:02 INFO  MyAccount:40 - logout from my account clicked
+2019-01-10 13:19:03 INFO  TestListener:103 - To_verify_default_values_for_logout Test Case passed
+2019-01-10 13:19:03 INFO  TestListener:84 - To_verify_default_values_forloginpage Test Case started
+2019-01-10 13:19:03 INFO  Topnavigation:30 - Entered email
+2019-01-10 13:19:03 INFO  Topnavigation:43 - entered password
+2019-01-10 13:19:03 INFO  Topnavigation:54 - remeberme checkbox selected
+2019-01-10 13:19:09 INFO  Topnavigation:65 - login button clicked
+2019-01-10 13:19:12 INFO  MyAccount:85 - editaccountdetails clicked
+2019-01-10 13:19:13 INFO  TestListener:103 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 13:19:13 INFO  TestListener:84 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 13:19:13 INFO  MyAccount:395 - Edit firstname
+2019-01-10 13:19:13 INFO  MyAccount:407 - Edit lastname
+2019-01-10 13:19:13 INFO  MyAccount:419 - edit account_display_name
+2019-01-10 13:19:18 INFO  MyAccount:432 - clickedsavedetails button clicked
+2019-01-10 13:19:18 INFO  TestListener:103 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 13:19:18 INFO  TestListener:84 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 13:19:21 INFO  MyAccount:97 - editaaddressdetails clicked
+2019-01-10 13:19:23 INFO  MyAccount:108 - billingaddress clicked
+2019-01-10 13:19:23 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 13:19:23 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 13:19:24 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 13:19:24 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 13:19:24 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 13:19:24 INFO  MyAccount:335 - edit billingcity
+2019-01-10 13:19:24 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 13:19:24 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 13:19:30 INFO  MyAccount:371 - Submit billing_save_address clicked
+2019-01-10 13:19:30 INFO  TestListener:103 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 13:19:30 INFO  TestListener:84 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 13:19:33 INFO  MyAccount:66 - editshippingdetails clicked
+2019-01-10 13:19:33 INFO  MyAccount:140 -  firstnameshipping in textbox
+2019-01-10 13:19:33 INFO  MyAccount:152 - Edit lastnameshipping
+2019-01-10 13:19:33 INFO  MyAccount:164 - edit shippingcompanyname
+2019-01-10 13:19:33 INFO  MyAccount:175 - edit shippingaddress1
+2019-01-10 13:19:34 INFO  MyAccount:186 - edit shippingaddress2
+2019-01-10 13:19:34 INFO  MyAccount:197 - edit shippingcity
+2019-01-10 13:19:34 INFO  MyAccount:208 - edit shippingpostcode
+2019-01-10 13:19:34 INFO  MyAccount:219 - edit shipping_phone
+2019-01-10 13:19:38 INFO  MyAccount:232 - shipping_save_address button clicked
+2019-01-10 13:19:38 INFO  TestListener:103 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 13:19:38 INFO  TestListener:84 - To_verify_navigatetocart Test Case started
+2019-01-10 13:19:40 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 13:19:43 INFO  TestListener:103 - To_verify_navigatetocart Test Case passed
+2019-01-10 13:19:43 INFO  TestListener:84 - To_verify_continue_shop Test Case started
+2019-01-10 13:19:45 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 13:19:47 INFO  TestListener:103 - To_verify_continue_shop Test Case passed
+2019-01-10 13:19:47 INFO  TestListener:84 - To_verify_navigatetocheckout Test Case started
+2019-01-10 13:19:50 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 13:19:52 INFO  TestListener:103 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 13:19:52 INFO  TestListener:84 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 13:19:52 INFO  Home:34 - Productadd button clicked
+2019-01-10 13:20:01 INFO  Home:47 - Viewcart button clicked
+2019-01-10 13:20:04 INFO  Home:58 - checkout button clicked
+2019-01-10 13:20:04 INFO  TestListener:103 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 13:20:04 INFO  TestListener:84 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 13:20:05 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 13:20:05 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 13:20:05 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 13:20:05 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 13:20:05 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 13:20:05 INFO  MyAccount:335 - edit billingcity
+2019-01-10 13:20:06 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 13:20:06 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 13:20:06 INFO  TestListener:103 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 13:20:06 INFO  TestListener:84 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 13:20:06 INFO  Home:36 - Select Cash on delivery button clicked
+2019-01-10 13:20:09 INFO  Home:52 - Order Placed button clicked
+2019-01-10 13:20:09 INFO  TestListener:103 - To_verify_navigatetoorderplaced Test Case passed
+2019-01-10 13:20:10 INFO  TestListener:41 - Test Cases Execution Finished 
+2019-01-10 15:13:37 INFO  TestListener:48 - Test Cases Execution Started
+2019-01-10 15:13:46 INFO  BrowserDriver:40 - chrome driver ready for testing
+2019-01-10 15:13:55 INFO  TestListener:84 - To_verify_default_values_for_register Test Case started
+2019-01-10 15:13:58 INFO  Topnavigation:37 - Verify click Myaccount on menu bar for Register
+2019-01-10 15:14:00 INFO  TestListener:103 - To_verify_default_values_for_register Test Case passed
+2019-01-10 15:14:00 INFO  TestListener:84 - To_verify_default_values_for_enterregisteremail Test Case started
+2019-01-10 15:14:00 INFO  Home:34 - entered Email in textbox on register page
+2019-01-10 15:14:15 INFO  Home:47 - Register button clicked
+2019-01-10 15:14:15 INFO  TestListener:103 - To_verify_default_values_for_enterregisteremail Test Case passed
+2019-01-10 15:14:15 INFO  TestListener:84 - To_verify_default_values_for_logout Test Case started
+2019-01-10 15:14:21 INFO  MyAccount:40 - logout from my account clicked
+2019-01-10 15:14:21 INFO  TestListener:103 - To_verify_default_values_for_logout Test Case passed
+2019-01-10 15:14:21 INFO  TestListener:84 - To_verify_default_values_forloginpage Test Case started
+2019-01-10 15:14:21 INFO  Topnavigation:30 - Entered email
+2019-01-10 15:14:21 INFO  Topnavigation:43 - entered password
+2019-01-10 15:14:21 INFO  Topnavigation:54 - remeberme checkbox selected
+2019-01-10 15:14:29 INFO  Topnavigation:65 - login button clicked
+2019-01-10 15:14:32 INFO  MyAccount:85 - editaccountdetails clicked
+2019-01-10 15:14:33 INFO  TestListener:103 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 15:14:33 INFO  TestListener:84 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 15:14:33 INFO  MyAccount:395 - Edit firstname
+2019-01-10 15:14:33 INFO  MyAccount:407 - Edit lastname
+2019-01-10 15:14:33 INFO  MyAccount:419 - edit account_display_name
+2019-01-10 15:14:38 INFO  MyAccount:432 - clickedsavedetails button clicked
+2019-01-10 15:14:38 INFO  TestListener:103 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 15:14:38 INFO  TestListener:84 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 15:14:41 INFO  MyAccount:97 - editaaddressdetails clicked
+2019-01-10 15:14:43 INFO  MyAccount:108 - billingaddress clicked
+2019-01-10 15:14:43 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:14:43 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:14:43 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:14:43 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:14:44 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:14:44 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:14:44 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:14:44 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:14:48 INFO  MyAccount:371 - Submit billing_save_address clicked
+2019-01-10 15:14:49 INFO  TestListener:103 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 15:14:49 INFO  TestListener:84 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 15:14:51 INFO  MyAccount:66 - editshippingdetails clicked
+2019-01-10 15:14:51 INFO  MyAccount:140 -  firstnameshipping in textbox
+2019-01-10 15:14:51 INFO  MyAccount:152 - Edit lastnameshipping
+2019-01-10 15:14:51 INFO  MyAccount:164 - edit shippingcompanyname
+2019-01-10 15:14:51 INFO  MyAccount:175 - edit shippingaddress1
+2019-01-10 15:14:52 INFO  MyAccount:186 - edit shippingaddress2
+2019-01-10 15:14:52 INFO  MyAccount:197 - edit shippingcity
+2019-01-10 15:14:52 INFO  MyAccount:208 - edit shippingpostcode
+2019-01-10 15:14:52 INFO  MyAccount:219 - edit shipping_phone
+2019-01-10 15:14:56 INFO  MyAccount:232 - shipping_save_address button clicked
+2019-01-10 15:14:57 INFO  TestListener:103 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 15:14:57 INFO  TestListener:84 - To_verify_navigatetocart Test Case started
+2019-01-10 15:14:59 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:15:01 INFO  TestListener:103 - To_verify_navigatetocart Test Case passed
+2019-01-10 15:15:01 INFO  TestListener:84 - To_verify_continue_shop Test Case started
+2019-01-10 15:15:04 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:15:06 INFO  TestListener:103 - To_verify_continue_shop Test Case passed
+2019-01-10 15:15:06 INFO  TestListener:84 - To_verify_navigatetocheckout Test Case started
+2019-01-10 15:15:09 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:15:12 INFO  TestListener:103 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 15:15:12 INFO  TestListener:84 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 15:15:12 INFO  Home:34 - Productadd button clicked
+2019-01-10 15:15:20 INFO  Home:47 - Viewcart button clicked
+2019-01-10 15:15:22 INFO  Home:58 - checkout button clicked
+2019-01-10 15:15:23 INFO  TestListener:103 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 15:15:23 INFO  TestListener:84 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 15:15:23 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:15:23 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:15:23 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:15:23 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:15:24 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:15:24 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:15:24 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:15:24 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:15:24 INFO  TestListener:103 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 15:15:24 INFO  TestListener:84 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 15:15:24 INFO  Home:41 - Select Cash on delivery button clicked
+2019-01-10 15:15:27 INFO  Home:57 - Order Placed button clicked
+2019-01-10 15:15:42 INFO  Home:72 - Ordersummaary does not exist
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64887}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir4344_4774}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd63bcc82b19c72639e9c8829297a805
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:29)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:142)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:15:42 INFO  Home:73 - Error in Ordersummaarymethod
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64887}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir4344_4774}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd63bcc82b19c72639e9c8829297a805
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:29)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:142)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:15:43 INFO  TestListener:67 - To_verify_navigatetoorderplaced Test Case failed
+2019-01-10 15:15:43 INFO  TestListener:41 - Test Cases Execution Finished 
+2019-01-10 15:20:29 INFO  TestListener:48 - Test Cases Execution Started
+2019-01-10 15:20:39 INFO  BrowserDriver:40 - chrome driver ready for testing
+2019-01-10 15:20:47 INFO  TestListener:84 - To_verify_default_values_for_register Test Case started
+2019-01-10 15:20:50 INFO  Topnavigation:37 - Verify click Myaccount on menu bar for Register
+2019-01-10 15:20:53 INFO  TestListener:103 - To_verify_default_values_for_register Test Case passed
+2019-01-10 15:20:53 INFO  TestListener:84 - To_verify_default_values_for_enterregisteremail Test Case started
+2019-01-10 15:20:53 INFO  Home:34 - entered Email in textbox on register page
+2019-01-10 15:21:08 INFO  Home:47 - Register button clicked
+2019-01-10 15:21:08 INFO  TestListener:103 - To_verify_default_values_for_enterregisteremail Test Case passed
+2019-01-10 15:21:08 INFO  TestListener:84 - To_verify_default_values_for_logout Test Case started
+2019-01-10 15:21:13 INFO  MyAccount:40 - logout from my account clicked
+2019-01-10 15:21:14 INFO  TestListener:103 - To_verify_default_values_for_logout Test Case passed
+2019-01-10 15:21:14 INFO  TestListener:84 - To_verify_default_values_forloginpage Test Case started
+2019-01-10 15:21:14 INFO  Topnavigation:30 - Entered email
+2019-01-10 15:21:14 INFO  Topnavigation:43 - entered password
+2019-01-10 15:21:14 INFO  Topnavigation:54 - remeberme checkbox selected
+2019-01-10 15:21:21 INFO  Topnavigation:65 - login button clicked
+2019-01-10 15:21:23 INFO  MyAccount:85 - editaccountdetails clicked
+2019-01-10 15:21:24 INFO  TestListener:103 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 15:21:24 INFO  TestListener:84 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 15:21:24 INFO  MyAccount:395 - Edit firstname
+2019-01-10 15:21:24 INFO  MyAccount:407 - Edit lastname
+2019-01-10 15:21:24 INFO  MyAccount:419 - edit account_display_name
+2019-01-10 15:21:30 INFO  MyAccount:432 - clickedsavedetails button clicked
+2019-01-10 15:21:31 INFO  TestListener:103 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 15:21:31 INFO  TestListener:84 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 15:21:34 INFO  MyAccount:97 - editaaddressdetails clicked
+2019-01-10 15:21:37 INFO  MyAccount:108 - billingaddress clicked
+2019-01-10 15:21:37 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:21:37 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:21:37 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:21:37 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:21:37 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:21:37 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:21:37 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:21:38 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:21:43 INFO  MyAccount:371 - Submit billing_save_address clicked
+2019-01-10 15:21:43 INFO  TestListener:103 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 15:21:43 INFO  TestListener:84 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 15:21:45 INFO  MyAccount:66 - editshippingdetails clicked
+2019-01-10 15:21:45 INFO  MyAccount:140 -  firstnameshipping in textbox
+2019-01-10 15:21:45 INFO  MyAccount:152 - Edit lastnameshipping
+2019-01-10 15:21:45 INFO  MyAccount:164 - edit shippingcompanyname
+2019-01-10 15:21:46 INFO  MyAccount:175 - edit shippingaddress1
+2019-01-10 15:21:46 INFO  MyAccount:186 - edit shippingaddress2
+2019-01-10 15:21:46 INFO  MyAccount:197 - edit shippingcity
+2019-01-10 15:21:46 INFO  MyAccount:208 - edit shippingpostcode
+2019-01-10 15:21:46 INFO  MyAccount:219 - edit shipping_phone
+2019-01-10 15:21:50 INFO  MyAccount:232 - shipping_save_address button clicked
+2019-01-10 15:21:50 INFO  TestListener:103 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 15:21:50 INFO  TestListener:84 - To_verify_navigatetocart Test Case started
+2019-01-10 15:21:53 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:21:55 INFO  TestListener:103 - To_verify_navigatetocart Test Case passed
+2019-01-10 15:21:55 INFO  TestListener:84 - To_verify_continue_shop Test Case started
+2019-01-10 15:21:58 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:22:00 INFO  TestListener:103 - To_verify_continue_shop Test Case passed
+2019-01-10 15:22:00 INFO  TestListener:84 - To_verify_navigatetocheckout Test Case started
+2019-01-10 15:22:02 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:22:04 INFO  TestListener:103 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 15:22:04 INFO  TestListener:84 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 15:22:05 INFO  Home:34 - Productadd button clicked
+2019-01-10 15:22:13 INFO  Home:47 - Viewcart button clicked
+2019-01-10 15:22:16 INFO  Home:58 - checkout button clicked
+2019-01-10 15:22:16 INFO  TestListener:103 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 15:22:16 INFO  TestListener:84 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 15:22:16 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:22:16 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:22:16 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:22:17 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:22:17 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:22:17 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:22:17 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:22:17 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:22:18 INFO  TestListener:103 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 15:22:18 INFO  TestListener:84 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 15:22:18 INFO  Home:41 - Select Cash on delivery button clicked
+2019-01-10 15:22:21 INFO  Home:57 - Order Placed button clicked
+2019-01-10 15:22:36 INFO  Home:75 - Ordersummaary does not exist
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64976}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir8964_2806}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c8693270c0d2fb758cf14955aaa5970a
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:29)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:142)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:22:36 INFO  Home:76 - Error in Ordersummaarymethod
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64976}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir8964_2806}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c8693270c0d2fb758cf14955aaa5970a
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:29)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:142)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:22:36 INFO  TestListener:67 - To_verify_navigatetoorderplaced Test Case failed
+2019-01-10 15:22:36 INFO  TestListener:41 - Test Cases Execution Finished 
+2019-01-10 15:23:14 INFO  TestListener:48 - Test Cases Execution Started
+2019-01-10 15:23:21 INFO  BrowserDriver:40 - chrome driver ready for testing
+2019-01-10 15:23:30 INFO  TestListener:84 - To_verify_default_values_for_register Test Case started
+2019-01-10 15:23:33 INFO  Topnavigation:37 - Verify click Myaccount on menu bar for Register
+2019-01-10 15:23:35 INFO  TestListener:103 - To_verify_default_values_for_register Test Case passed
+2019-01-10 15:23:35 INFO  TestListener:84 - To_verify_default_values_for_enterregisteremail Test Case started
+2019-01-10 15:23:35 INFO  Home:34 - entered Email in textbox on register page
+2019-01-10 15:23:44 INFO  Home:47 - Register button clicked
+2019-01-10 15:23:44 INFO  TestListener:103 - To_verify_default_values_for_enterregisteremail Test Case passed
+2019-01-10 15:23:44 INFO  TestListener:84 - To_verify_default_values_for_logout Test Case started
+2019-01-10 15:23:50 INFO  MyAccount:40 - logout from my account clicked
+2019-01-10 15:23:50 INFO  TestListener:103 - To_verify_default_values_for_logout Test Case passed
+2019-01-10 15:23:50 INFO  TestListener:84 - To_verify_default_values_forloginpage Test Case started
+2019-01-10 15:23:50 INFO  Topnavigation:30 - Entered email
+2019-01-10 15:23:50 INFO  Topnavigation:43 - entered password
+2019-01-10 15:23:51 INFO  Topnavigation:54 - remeberme checkbox selected
+2019-01-10 15:23:56 INFO  Topnavigation:65 - login button clicked
+2019-01-10 15:23:59 INFO  MyAccount:85 - editaccountdetails clicked
+2019-01-10 15:23:59 INFO  TestListener:103 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 15:23:59 INFO  TestListener:84 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 15:23:59 INFO  MyAccount:395 - Edit firstname
+2019-01-10 15:23:59 INFO  MyAccount:407 - Edit lastname
+2019-01-10 15:23:59 INFO  MyAccount:419 - edit account_display_name
+2019-01-10 15:24:04 INFO  MyAccount:432 - clickedsavedetails button clicked
+2019-01-10 15:24:04 INFO  TestListener:103 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 15:24:04 INFO  TestListener:84 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 15:24:07 INFO  MyAccount:97 - editaaddressdetails clicked
+2019-01-10 15:24:09 INFO  MyAccount:108 - billingaddress clicked
+2019-01-10 15:24:09 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:24:09 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:24:09 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:24:09 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:24:09 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:24:09 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:24:10 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:24:10 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:24:14 INFO  MyAccount:371 - Submit billing_save_address clicked
+2019-01-10 15:24:14 INFO  TestListener:103 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 15:24:14 INFO  TestListener:84 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 15:24:17 INFO  MyAccount:66 - editshippingdetails clicked
+2019-01-10 15:24:17 INFO  MyAccount:140 -  firstnameshipping in textbox
+2019-01-10 15:24:17 INFO  MyAccount:152 - Edit lastnameshipping
+2019-01-10 15:24:17 INFO  MyAccount:164 - edit shippingcompanyname
+2019-01-10 15:24:17 INFO  MyAccount:175 - edit shippingaddress1
+2019-01-10 15:24:17 INFO  MyAccount:186 - edit shippingaddress2
+2019-01-10 15:24:17 INFO  MyAccount:197 - edit shippingcity
+2019-01-10 15:24:17 INFO  MyAccount:208 - edit shippingpostcode
+2019-01-10 15:24:18 INFO  MyAccount:219 - edit shipping_phone
+2019-01-10 15:24:22 INFO  MyAccount:232 - shipping_save_address button clicked
+2019-01-10 15:24:23 INFO  TestListener:103 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 15:24:23 INFO  TestListener:84 - To_verify_navigatetocart Test Case started
+2019-01-10 15:24:26 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:24:28 INFO  TestListener:103 - To_verify_navigatetocart Test Case passed
+2019-01-10 15:24:28 INFO  TestListener:84 - To_verify_continue_shop Test Case started
+2019-01-10 15:24:31 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:24:33 INFO  TestListener:103 - To_verify_continue_shop Test Case passed
+2019-01-10 15:24:33 INFO  TestListener:84 - To_verify_navigatetocheckout Test Case started
+2019-01-10 15:24:35 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:24:38 INFO  TestListener:103 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 15:24:38 INFO  TestListener:84 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 15:24:38 INFO  Home:34 - Productadd button clicked
+2019-01-10 15:24:45 INFO  Home:47 - Viewcart button clicked
+2019-01-10 15:24:48 INFO  Home:58 - checkout button clicked
+2019-01-10 15:24:48 INFO  TestListener:103 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 15:24:48 INFO  TestListener:84 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 15:24:48 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:24:48 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:24:49 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:24:49 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:24:49 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:24:49 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:24:49 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:24:49 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:24:50 INFO  TestListener:103 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 15:24:50 INFO  TestListener:84 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 15:24:50 INFO  Home:41 - Select Cash on delivery button clicked
+2019-01-10 15:24:53 INFO  Home:57 - Order Placed button clicked
+2019-01-10 15:25:08 INFO  Home:75 - Ordersummaary does not exist
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65060}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir8336_5790}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 160e78f1e2c79967193217750a3d5f5c
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:29)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:142)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:25:08 INFO  Home:76 - Error in Ordersummaarymethod
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65060}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir8336_5790}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 160e78f1e2c79967193217750a3d5f5c
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:29)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:142)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:25:08 INFO  TestListener:67 - To_verify_navigatetoorderplaced Test Case failed
+2019-01-10 15:25:08 INFO  TestListener:41 - Test Cases Execution Finished 
+2019-01-10 15:30:00 INFO  TestListener:48 - Test Cases Execution Started
+2019-01-10 15:30:07 INFO  BrowserDriver:40 - chrome driver ready for testing
+2019-01-10 15:30:22 INFO  TestListener:84 - To_verify_default_values_for_register Test Case started
+2019-01-10 15:30:25 INFO  Topnavigation:37 - Verify click Myaccount on menu bar for Register
+2019-01-10 15:30:27 INFO  TestListener:103 - To_verify_default_values_for_register Test Case passed
+2019-01-10 15:30:27 INFO  TestListener:84 - To_verify_default_values_for_enterregisteremail Test Case started
+2019-01-10 15:30:27 INFO  Home:34 - entered Email in textbox on register page
+2019-01-10 15:30:37 INFO  Home:47 - Register button clicked
+2019-01-10 15:30:38 INFO  TestListener:103 - To_verify_default_values_for_enterregisteremail Test Case passed
+2019-01-10 15:30:38 INFO  TestListener:84 - To_verify_default_values_for_logout Test Case started
+2019-01-10 15:30:44 INFO  MyAccount:40 - logout from my account clicked
+2019-01-10 15:30:44 INFO  TestListener:103 - To_verify_default_values_for_logout Test Case passed
+2019-01-10 15:30:44 INFO  TestListener:84 - To_verify_default_values_forloginpage Test Case started
+2019-01-10 15:30:44 INFO  Topnavigation:30 - Entered email
+2019-01-10 15:30:44 INFO  Topnavigation:43 - entered password
+2019-01-10 15:30:44 INFO  Topnavigation:54 - remeberme checkbox selected
+2019-01-10 15:30:50 INFO  Topnavigation:65 - login button clicked
+2019-01-10 15:30:53 INFO  MyAccount:85 - editaccountdetails clicked
+2019-01-10 15:30:53 INFO  TestListener:103 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 15:30:53 INFO  TestListener:84 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 15:30:53 INFO  MyAccount:395 - Edit firstname
+2019-01-10 15:30:54 INFO  MyAccount:407 - Edit lastname
+2019-01-10 15:30:54 INFO  MyAccount:419 - edit account_display_name
+2019-01-10 15:30:58 INFO  MyAccount:432 - clickedsavedetails button clicked
+2019-01-10 15:30:59 INFO  TestListener:103 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 15:30:59 INFO  TestListener:84 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 15:31:02 INFO  MyAccount:97 - editaaddressdetails clicked
+2019-01-10 15:31:04 INFO  MyAccount:108 - billingaddress clicked
+2019-01-10 15:31:04 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:31:04 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:31:04 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:31:04 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:31:04 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:31:04 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:31:05 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:31:05 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:31:09 INFO  MyAccount:371 - Submit billing_save_address clicked
+2019-01-10 15:31:09 INFO  TestListener:103 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 15:31:09 INFO  TestListener:84 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 15:31:12 INFO  MyAccount:66 - editshippingdetails clicked
+2019-01-10 15:31:12 INFO  MyAccount:140 -  firstnameshipping in textbox
+2019-01-10 15:31:12 INFO  MyAccount:152 - Edit lastnameshipping
+2019-01-10 15:31:12 INFO  MyAccount:164 - edit shippingcompanyname
+2019-01-10 15:31:12 INFO  MyAccount:175 - edit shippingaddress1
+2019-01-10 15:31:12 INFO  MyAccount:186 - edit shippingaddress2
+2019-01-10 15:31:12 INFO  MyAccount:197 - edit shippingcity
+2019-01-10 15:31:12 INFO  MyAccount:208 - edit shippingpostcode
+2019-01-10 15:31:13 INFO  MyAccount:219 - edit shipping_phone
+2019-01-10 15:31:17 INFO  MyAccount:232 - shipping_save_address button clicked
+2019-01-10 15:31:17 INFO  TestListener:103 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 15:31:17 INFO  TestListener:84 - To_verify_navigatetocart Test Case started
+2019-01-10 15:31:19 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:31:22 INFO  TestListener:103 - To_verify_navigatetocart Test Case passed
+2019-01-10 15:31:22 INFO  TestListener:84 - To_verify_continue_shop Test Case started
+2019-01-10 15:31:24 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:31:26 INFO  TestListener:103 - To_verify_continue_shop Test Case passed
+2019-01-10 15:31:26 INFO  TestListener:84 - To_verify_navigatetocheckout Test Case started
+2019-01-10 15:31:30 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:31:32 INFO  TestListener:103 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 15:31:32 INFO  TestListener:84 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 15:31:32 INFO  Home:34 - Productadd button clicked
+2019-01-10 15:31:40 INFO  Home:47 - Viewcart button clicked
+2019-01-10 15:31:43 INFO  Home:58 - checkout button clicked
+2019-01-10 15:31:43 INFO  TestListener:103 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 15:31:43 INFO  TestListener:84 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 15:31:43 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:31:44 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:31:44 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:31:44 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:31:44 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:31:44 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:31:45 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:31:45 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:31:45 INFO  TestListener:103 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 15:31:45 INFO  TestListener:84 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 15:31:45 INFO  Home:41 - Select Cash on delivery button clicked
+2019-01-10 15:31:48 INFO  Home:57 - Order Placed button clicked
+2019-01-10 15:32:03 INFO  Home:76 - Ordersummaary does not exist
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65160}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir11976_21618}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: edeb05b50e25d15449ed6bfaaee33299
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:29)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:142)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:32:03 INFO  Home:77 - Error in Ordersummaarymethod
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65160}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir11976_21618}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: edeb05b50e25d15449ed6bfaaee33299
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:29)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:142)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:32:04 INFO  TestListener:67 - To_verify_navigatetoorderplaced Test Case failed
+2019-01-10 15:32:04 INFO  TestListener:41 - Test Cases Execution Finished 
+2019-01-10 15:35:20 INFO  TestListener:48 - Test Cases Execution Started
+2019-01-10 15:35:27 INFO  BrowserDriver:40 - chrome driver ready for testing
+2019-01-10 15:35:36 INFO  TestListener:84 - To_verify_default_values_for_register Test Case started
+2019-01-10 15:35:38 INFO  Topnavigation:37 - Verify click Myaccount on menu bar for Register
+2019-01-10 15:35:40 INFO  TestListener:103 - To_verify_default_values_for_register Test Case passed
+2019-01-10 15:35:40 INFO  TestListener:84 - To_verify_default_values_for_enterregisteremail Test Case started
+2019-01-10 15:35:40 INFO  Home:34 - entered Email in textbox on register page
+2019-01-10 15:35:49 INFO  Home:47 - Register button clicked
+2019-01-10 15:35:49 INFO  TestListener:103 - To_verify_default_values_for_enterregisteremail Test Case passed
+2019-01-10 15:35:49 INFO  TestListener:84 - To_verify_default_values_for_logout Test Case started
+2019-01-10 15:35:56 INFO  MyAccount:40 - logout from my account clicked
+2019-01-10 15:35:56 INFO  TestListener:103 - To_verify_default_values_for_logout Test Case passed
+2019-01-10 15:35:56 INFO  TestListener:84 - To_verify_default_values_forloginpage Test Case started
+2019-01-10 15:35:56 INFO  Topnavigation:30 - Entered email
+2019-01-10 15:35:56 INFO  Topnavigation:43 - entered password
+2019-01-10 15:35:56 INFO  Topnavigation:54 - remeberme checkbox selected
+2019-01-10 15:36:02 INFO  Topnavigation:65 - login button clicked
+2019-01-10 15:36:05 INFO  MyAccount:85 - editaccountdetails clicked
+2019-01-10 15:36:06 INFO  TestListener:103 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 15:36:06 INFO  TestListener:84 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 15:36:06 INFO  MyAccount:395 - Edit firstname
+2019-01-10 15:36:06 INFO  MyAccount:407 - Edit lastname
+2019-01-10 15:36:06 INFO  MyAccount:419 - edit account_display_name
+2019-01-10 15:36:12 INFO  MyAccount:432 - clickedsavedetails button clicked
+2019-01-10 15:36:12 INFO  TestListener:103 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 15:36:12 INFO  TestListener:84 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 15:36:15 INFO  MyAccount:97 - editaaddressdetails clicked
+2019-01-10 15:36:17 INFO  MyAccount:108 - billingaddress clicked
+2019-01-10 15:36:18 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:36:18 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:36:18 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:36:18 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:36:18 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:36:18 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:36:18 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:36:18 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:36:23 INFO  MyAccount:371 - Submit billing_save_address clicked
+2019-01-10 15:36:23 INFO  TestListener:103 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 15:36:23 INFO  TestListener:84 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 15:36:27 INFO  MyAccount:66 - editshippingdetails clicked
+2019-01-10 15:36:27 INFO  MyAccount:140 -  firstnameshipping in textbox
+2019-01-10 15:36:28 INFO  MyAccount:152 - Edit lastnameshipping
+2019-01-10 15:36:28 INFO  MyAccount:164 - edit shippingcompanyname
+2019-01-10 15:36:28 INFO  MyAccount:175 - edit shippingaddress1
+2019-01-10 15:36:28 INFO  MyAccount:186 - edit shippingaddress2
+2019-01-10 15:36:28 INFO  MyAccount:197 - edit shippingcity
+2019-01-10 15:36:28 INFO  MyAccount:208 - edit shippingpostcode
+2019-01-10 15:36:28 INFO  MyAccount:219 - edit shipping_phone
+2019-01-10 15:36:33 INFO  MyAccount:232 - shipping_save_address button clicked
+2019-01-10 15:36:34 INFO  TestListener:103 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 15:36:34 INFO  TestListener:84 - To_verify_navigatetocart Test Case started
+2019-01-10 15:36:37 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:36:39 INFO  TestListener:103 - To_verify_navigatetocart Test Case passed
+2019-01-10 15:36:39 INFO  TestListener:84 - To_verify_continue_shop Test Case started
+2019-01-10 15:36:42 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:36:44 INFO  TestListener:103 - To_verify_continue_shop Test Case passed
+2019-01-10 15:36:44 INFO  TestListener:84 - To_verify_navigatetocheckout Test Case started
+2019-01-10 15:36:47 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:36:49 INFO  TestListener:103 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 15:36:49 INFO  TestListener:84 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 15:36:49 INFO  Home:34 - Productadd button clicked
+2019-01-10 15:36:58 INFO  Home:47 - Viewcart button clicked
+2019-01-10 15:37:01 INFO  Home:58 - checkout button clicked
+2019-01-10 15:37:01 INFO  TestListener:103 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 15:37:01 INFO  TestListener:84 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 15:37:01 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:37:01 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:37:02 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:37:02 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:37:02 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:37:02 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:37:02 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:37:02 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:37:03 INFO  TestListener:103 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 15:37:03 INFO  TestListener:84 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 15:37:03 INFO  Home:41 - Select Cash on delivery button clicked
+2019-01-10 15:37:06 INFO  Home:57 - Order Placed button clicked
+2019-01-10 15:37:21 INFO  Home:76 - Ordersummaary does not exist
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65261}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir1248_21567}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8a56d4762b9b9fd4e2aedd16b843972a
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:29)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:144)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:37:21 INFO  Home:77 - Error in Ordersummaarymethod
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65261}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir1248_21567}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8a56d4762b9b9fd4e2aedd16b843972a
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:29)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:144)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:37:21 INFO  TestListener:67 - To_verify_navigatetoorderplaced Test Case failed
+2019-01-10 15:37:21 INFO  TestListener:41 - Test Cases Execution Finished 
+2019-01-10 15:39:35 INFO  TestListener:48 - Test Cases Execution Started
+2019-01-10 15:39:43 INFO  BrowserDriver:40 - chrome driver ready for testing
+2019-01-10 15:39:51 INFO  TestListener:84 - To_verify_default_values_for_register Test Case started
+2019-01-10 15:39:53 INFO  Topnavigation:37 - Verify click Myaccount on menu bar for Register
+2019-01-10 15:39:56 INFO  TestListener:103 - To_verify_default_values_for_register Test Case passed
+2019-01-10 15:39:56 INFO  TestListener:84 - To_verify_default_values_for_enterregisteremail Test Case started
+2019-01-10 15:39:56 INFO  Home:34 - entered Email in textbox on register page
+2019-01-10 15:40:04 INFO  Home:47 - Register button clicked
+2019-01-10 15:40:04 INFO  TestListener:103 - To_verify_default_values_for_enterregisteremail Test Case passed
+2019-01-10 15:40:04 INFO  TestListener:84 - To_verify_default_values_for_logout Test Case started
+2019-01-10 15:40:11 INFO  MyAccount:40 - logout from my account clicked
+2019-01-10 15:40:11 INFO  TestListener:103 - To_verify_default_values_for_logout Test Case passed
+2019-01-10 15:40:11 INFO  TestListener:84 - To_verify_default_values_forloginpage Test Case started
+2019-01-10 15:40:11 INFO  Topnavigation:30 - Entered email
+2019-01-10 15:40:11 INFO  Topnavigation:43 - entered password
+2019-01-10 15:40:11 INFO  Topnavigation:54 - remeberme checkbox selected
+2019-01-10 15:40:17 INFO  Topnavigation:65 - login button clicked
+2019-01-10 15:40:19 INFO  MyAccount:85 - editaccountdetails clicked
+2019-01-10 15:40:20 INFO  TestListener:103 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 15:40:20 INFO  TestListener:84 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 15:40:20 INFO  MyAccount:395 - Edit firstname
+2019-01-10 15:40:20 INFO  MyAccount:407 - Edit lastname
+2019-01-10 15:40:20 INFO  MyAccount:419 - edit account_display_name
+2019-01-10 15:40:25 INFO  MyAccount:432 - clickedsavedetails button clicked
+2019-01-10 15:40:26 INFO  TestListener:103 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 15:40:26 INFO  TestListener:84 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 15:40:28 INFO  MyAccount:97 - editaaddressdetails clicked
+2019-01-10 15:40:30 INFO  MyAccount:108 - billingaddress clicked
+2019-01-10 15:40:31 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:40:31 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:40:31 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:40:31 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:40:31 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:40:31 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:40:31 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:40:31 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:40:36 INFO  MyAccount:371 - Submit billing_save_address clicked
+2019-01-10 15:40:37 INFO  TestListener:103 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 15:40:37 INFO  TestListener:84 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 15:40:39 INFO  MyAccount:66 - editshippingdetails clicked
+2019-01-10 15:40:39 INFO  MyAccount:140 -  firstnameshipping in textbox
+2019-01-10 15:40:39 INFO  MyAccount:152 - Edit lastnameshipping
+2019-01-10 15:40:39 INFO  MyAccount:164 - edit shippingcompanyname
+2019-01-10 15:40:39 INFO  MyAccount:175 - edit shippingaddress1
+2019-01-10 15:40:40 INFO  MyAccount:186 - edit shippingaddress2
+2019-01-10 15:40:40 INFO  MyAccount:197 - edit shippingcity
+2019-01-10 15:40:40 INFO  MyAccount:208 - edit shippingpostcode
+2019-01-10 15:40:40 INFO  MyAccount:219 - edit shipping_phone
+2019-01-10 15:40:44 INFO  MyAccount:232 - shipping_save_address button clicked
+2019-01-10 15:40:45 INFO  TestListener:103 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 15:40:45 INFO  TestListener:84 - To_verify_navigatetocart Test Case started
+2019-01-10 15:40:47 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:40:50 INFO  TestListener:103 - To_verify_navigatetocart Test Case passed
+2019-01-10 15:40:50 INFO  TestListener:84 - To_verify_continue_shop Test Case started
+2019-01-10 15:40:52 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:40:55 INFO  TestListener:103 - To_verify_continue_shop Test Case passed
+2019-01-10 15:40:55 INFO  TestListener:84 - To_verify_navigatetocheckout Test Case started
+2019-01-10 15:40:57 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 15:40:59 INFO  TestListener:103 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 15:40:59 INFO  TestListener:84 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 15:40:59 INFO  Home:34 - Productadd button clicked
+2019-01-10 15:41:13 INFO  Home:47 - Viewcart button clicked
+2019-01-10 15:41:16 INFO  Home:58 - checkout button clicked
+2019-01-10 15:41:17 INFO  TestListener:103 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 15:41:17 INFO  TestListener:84 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 15:41:17 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 15:41:17 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 15:41:17 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 15:41:17 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 15:41:18 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 15:41:18 INFO  MyAccount:335 - edit billingcity
+2019-01-10 15:41:18 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 15:41:18 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 15:41:18 INFO  TestListener:103 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 15:41:18 INFO  TestListener:84 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 15:41:19 INFO  Home:41 - Select Cash on delivery button clicked
+2019-01-10 15:41:22 INFO  Home:57 - Order Placed button clicked
+2019-01-10 15:41:37 INFO  Home:76 - Ordersummaary does not exist
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65389}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir1216_16135}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9d4a8980e6f83618d9b98c6569e965e0
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:28)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:144)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:41:37 INFO  Home:77 - Error in Ordersummaarymethod
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='post-6']/div/div/div/p"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: '01-011903', ip: '192.168.76.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65389}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\vikas.m\AppData\Local\Temp\scoped_dir1216_16135}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9d4a8980e6f83618d9b98c6569e965e0
+*** Element info: {Using=xpath, value=//*[@id='post-6']/div/div/div/p}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.ids.store.selenium.wrapper.Wrapper.findWebElement(Wrapper.java:141)
+	at com.ids.store.selenium.wrapper.Wrapper.clickElementAndWait(Wrapper.java:73)
+	at com.ids.store.pom.pages.Checkout.Ordersummaary(Checkout.java:67)
+	at com.ids.store.pom.pages.Checkout.navigateToplaceorder(Checkout.java:28)
+	at com.ids.store.pom.Tests.HomeTests.To_verify_navigatetoorderplaced(HomeTests.java:144)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+2019-01-10 15:41:37 INFO  TestListener:67 - To_verify_navigatetoorderplaced Test Case failed
+2019-01-10 15:41:37 INFO  TestListener:41 - Test Cases Execution Finished 
+2019-01-10 18:14:56 INFO  TestListener:58 - Test Cases Execution Started
+2019-01-10 18:15:03 INFO  BrowserDriver:40 - chrome driver ready for testing
+2019-01-10 18:15:13 INFO  TestListener:101 - To_verify_default_values_for_register Test Case started
+2019-01-10 18:15:16 INFO  Topnavigation:37 - Verify click Myaccount on menu bar for Register
+2019-01-10 18:15:18 INFO  TestListener:120 - To_verify_default_values_for_register Test Case passed
+2019-01-10 18:15:18 INFO  TestListener:101 - To_verify_default_values_for_enterregisteremail Test Case started
+2019-01-10 18:15:18 INFO  Home:34 - entered Email in textbox on register page
+2019-01-10 18:15:32 INFO  Home:47 - Register button clicked
+2019-01-10 18:15:32 INFO  TestListener:120 - To_verify_default_values_for_enterregisteremail Test Case passed
+2019-01-10 18:15:32 INFO  TestListener:101 - To_verify_default_values_for_logout Test Case started
+2019-01-10 18:15:40 INFO  MyAccount:40 - logout from my account clicked
+2019-01-10 18:15:40 INFO  TestListener:120 - To_verify_default_values_for_logout Test Case passed
+2019-01-10 18:15:40 INFO  TestListener:101 - To_verify_default_values_forloginpage Test Case started
+2019-01-10 18:15:40 INFO  Topnavigation:30 - Entered email
+2019-01-10 18:15:40 INFO  Topnavigation:43 - entered password
+2019-01-10 18:15:40 INFO  Topnavigation:54 - remeberme checkbox selected
+2019-01-10 18:15:47 INFO  Topnavigation:65 - login button clicked
+2019-01-10 18:15:50 INFO  MyAccount:85 - editaccountdetails clicked
+2019-01-10 18:15:50 INFO  TestListener:120 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 18:15:50 INFO  TestListener:101 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 18:15:50 INFO  MyAccount:395 - Edit firstname
+2019-01-10 18:15:51 INFO  MyAccount:407 - Edit lastname
+2019-01-10 18:15:51 INFO  MyAccount:419 - edit account_display_name
+2019-01-10 18:15:56 INFO  MyAccount:432 - clickedsavedetails button clicked
+2019-01-10 18:15:56 INFO  TestListener:120 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 18:15:56 INFO  TestListener:101 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 18:15:59 INFO  MyAccount:97 - editaaddressdetails clicked
+2019-01-10 18:16:01 INFO  MyAccount:108 - billingaddress clicked
+2019-01-10 18:16:02 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 18:16:02 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 18:16:02 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 18:16:02 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 18:16:02 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 18:16:02 INFO  MyAccount:335 - edit billingcity
+2019-01-10 18:16:02 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 18:16:03 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 18:16:07 INFO  MyAccount:371 - Submit billing_save_address clicked
+2019-01-10 18:16:07 INFO  TestListener:120 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 18:16:07 INFO  TestListener:101 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 18:16:11 INFO  MyAccount:66 - editshippingdetails clicked
+2019-01-10 18:16:11 INFO  MyAccount:140 -  firstnameshipping in textbox
+2019-01-10 18:16:11 INFO  MyAccount:152 - Edit lastnameshipping
+2019-01-10 18:16:11 INFO  MyAccount:164 - edit shippingcompanyname
+2019-01-10 18:16:11 INFO  MyAccount:175 - edit shippingaddress1
+2019-01-10 18:16:12 INFO  MyAccount:186 - edit shippingaddress2
+2019-01-10 18:16:12 INFO  MyAccount:197 - edit shippingcity
+2019-01-10 18:16:12 INFO  MyAccount:208 - edit shippingpostcode
+2019-01-10 18:16:12 INFO  MyAccount:219 - edit shipping_phone
+2019-01-10 18:16:17 INFO  MyAccount:232 - shipping_save_address button clicked
+2019-01-10 18:16:17 INFO  TestListener:120 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 18:16:17 INFO  TestListener:101 - To_verify_navigatetocart Test Case started
+2019-01-10 18:16:20 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 18:16:22 INFO  TestListener:120 - To_verify_navigatetocart Test Case passed
+2019-01-10 18:16:22 INFO  TestListener:101 - To_verify_continue_shop Test Case started
+2019-01-10 18:16:26 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 18:16:28 INFO  TestListener:120 - To_verify_continue_shop Test Case passed
+2019-01-10 18:16:28 INFO  TestListener:101 - To_verify_navigatetocheckout Test Case started
+2019-01-10 18:16:31 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 18:16:33 INFO  TestListener:120 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 18:16:33 INFO  TestListener:101 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 18:16:33 INFO  Home:34 - Productadd button clicked
+2019-01-10 18:16:40 INFO  Home:47 - Viewcart button clicked
+2019-01-10 18:16:43 INFO  Home:58 - checkout button clicked
+2019-01-10 18:16:43 INFO  TestListener:120 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 18:16:43 INFO  TestListener:101 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 18:16:43 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 18:16:44 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 18:16:44 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 18:16:44 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 18:16:44 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 18:16:45 INFO  MyAccount:335 - edit billingcity
+2019-01-10 18:16:45 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 18:16:45 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 18:16:45 INFO  TestListener:120 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 18:16:45 INFO  TestListener:101 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 18:16:45 INFO  Home:41 - Select Cash on delivery button clicked
+2019-01-10 18:16:48 INFO  Home:57 - Order Placed button clicked
+2019-01-10 18:16:49 INFO  TestListener:120 - To_verify_navigatetoorderplaced Test Case passed
+2019-01-10 18:16:49 INFO  TestListener:43 - Test Cases Execution Finished 
+2019-01-10 18:36:23 INFO  TestListener:58 - Test Cases Execution Started
+2019-01-10 18:36:33 INFO  BrowserDriver:40 - chrome driver ready for testing
+2019-01-10 18:36:42 INFO  TestListener:101 - To_verify_default_values_for_register Test Case started
+2019-01-10 18:36:44 INFO  Topnavigation:37 - Verify click Myaccount on menu bar for Register
+2019-01-10 18:36:46 INFO  TestListener:120 - To_verify_default_values_for_register Test Case passed
+2019-01-10 18:36:46 INFO  TestListener:101 - To_verify_default_values_for_enterregisteremail Test Case started
+2019-01-10 18:36:47 INFO  Home:34 - entered Email in textbox on register page
+2019-01-10 18:36:59 INFO  Home:47 - Register button clicked
+2019-01-10 18:36:59 INFO  TestListener:120 - To_verify_default_values_for_enterregisteremail Test Case passed
+2019-01-10 18:36:59 INFO  TestListener:101 - To_verify_default_values_for_logout Test Case started
+2019-01-10 18:37:05 INFO  MyAccount:40 - logout from my account clicked
+2019-01-10 18:37:05 INFO  TestListener:120 - To_verify_default_values_for_logout Test Case passed
+2019-01-10 18:37:05 INFO  TestListener:101 - To_verify_default_values_forloginpage Test Case started
+2019-01-10 18:37:05 INFO  Topnavigation:30 - Entered email
+2019-01-10 18:37:05 INFO  Topnavigation:43 - entered password
+2019-01-10 18:37:06 INFO  Topnavigation:54 - remeberme checkbox selected
+2019-01-10 18:37:11 INFO  Topnavigation:65 - login button clicked
+2019-01-10 18:37:15 INFO  MyAccount:85 - editaccountdetails clicked
+2019-01-10 18:37:15 INFO  TestListener:120 - To_verify_default_values_forloginpage Test Case passed
+2019-01-10 18:37:15 INFO  TestListener:101 - To_verify_default_values_forMyaccountprofile Test Case started
+2019-01-10 18:37:15 INFO  MyAccount:395 - Edit firstname
+2019-01-10 18:37:15 INFO  MyAccount:407 - Edit lastname
+2019-01-10 18:37:15 INFO  MyAccount:419 - edit account_display_name
+2019-01-10 18:37:19 INFO  MyAccount:432 - clickedsavedetails button clicked
+2019-01-10 18:37:20 INFO  TestListener:120 - To_verify_default_values_forMyaccountprofile Test Case passed
+2019-01-10 18:37:20 INFO  TestListener:101 - To_verify_navigatetoeditbillingaddress Test Case started
+2019-01-10 18:37:23 INFO  MyAccount:97 - editaaddressdetails clicked
+2019-01-10 18:37:27 INFO  MyAccount:108 - billingaddress clicked
+2019-01-10 18:37:27 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 18:37:27 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 18:37:28 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 18:37:28 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 18:37:28 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 18:37:28 INFO  MyAccount:335 - edit billingcity
+2019-01-10 18:37:28 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 18:37:28 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 18:37:33 INFO  MyAccount:371 - Submit billing_save_address clicked
+2019-01-10 18:37:33 INFO  TestListener:120 - To_verify_navigatetoeditbillingaddress Test Case passed
+2019-01-10 18:37:33 INFO  TestListener:101 - To_verify_navigatetoshippingaddress Test Case started
+2019-01-10 18:37:36 INFO  MyAccount:66 - editshippingdetails clicked
+2019-01-10 18:37:36 INFO  MyAccount:140 -  firstnameshipping in textbox
+2019-01-10 18:37:36 INFO  MyAccount:152 - Edit lastnameshipping
+2019-01-10 18:37:37 INFO  MyAccount:164 - edit shippingcompanyname
+2019-01-10 18:37:37 INFO  MyAccount:175 - edit shippingaddress1
+2019-01-10 18:37:37 INFO  MyAccount:186 - edit shippingaddress2
+2019-01-10 18:37:37 INFO  MyAccount:197 - edit shippingcity
+2019-01-10 18:37:37 INFO  MyAccount:208 - edit shippingpostcode
+2019-01-10 18:37:37 INFO  MyAccount:219 - edit shipping_phone
+2019-01-10 18:37:44 INFO  MyAccount:232 - shipping_save_address button clicked
+2019-01-10 18:37:44 INFO  TestListener:120 - To_verify_navigatetoshippingaddress Test Case passed
+2019-01-10 18:37:44 INFO  TestListener:101 - To_verify_navigatetocart Test Case started
+2019-01-10 18:37:46 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 18:37:49 INFO  TestListener:120 - To_verify_navigatetocart Test Case passed
+2019-01-10 18:37:49 INFO  TestListener:101 - To_verify_continue_shop Test Case started
+2019-01-10 18:37:51 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 18:37:54 INFO  TestListener:120 - To_verify_continue_shop Test Case passed
+2019-01-10 18:37:54 INFO  TestListener:101 - To_verify_navigatetocheckout Test Case started
+2019-01-10 18:37:56 INFO  Topnavigation:47 - MyAccount button clicked
+2019-01-10 18:37:59 INFO  TestListener:120 - To_verify_navigatetocheckout Test Case passed
+2019-01-10 18:37:59 INFO  TestListener:101 - To_verify_navigatetoaddcart Test Case started
+2019-01-10 18:37:59 INFO  Home:34 - Productadd button clicked
+2019-01-10 18:38:07 INFO  Home:47 - Viewcart button clicked
+2019-01-10 18:38:10 INFO  Home:58 - checkout button clicked
+2019-01-10 18:38:11 INFO  TestListener:120 - To_verify_navigatetoaddcart Test Case passed
+2019-01-10 18:38:11 INFO  TestListener:101 - To_verify_navigatetocheckoutaddress Test Case started
+2019-01-10 18:38:11 INFO  MyAccount:278 - Edit firstnamebilling
+2019-01-10 18:38:11 INFO  MyAccount:290 - Edit lastnamebilling
+2019-01-10 18:38:11 INFO  MyAccount:302 - edit billingcompanyname
+2019-01-10 18:38:11 INFO  MyAccount:313 - edit billingaddress1
+2019-01-10 18:38:12 INFO  MyAccount:324 - edit billingaddress2
+2019-01-10 18:38:12 INFO  MyAccount:335 - edit billingcity
+2019-01-10 18:38:12 INFO  MyAccount:346 - edit billingpostcode
+2019-01-10 18:38:12 INFO  MyAccount:357 - edit billing_phone
+2019-01-10 18:38:12 INFO  TestListener:120 - To_verify_navigatetocheckoutaddress Test Case passed
+2019-01-10 18:38:12 INFO  TestListener:101 - To_verify_navigatetoorderplaced Test Case started
+2019-01-10 18:38:12 INFO  Home:41 - Select Cash on delivery button clicked
+2019-01-10 18:38:16 INFO  Home:57 - Order Placed button clicked
+2019-01-10 18:38:16 INFO  TestListener:120 - To_verify_navigatetoorderplaced Test Case passed
+2019-01-10 18:38:16 INFO  TestListener:43 - Test Cases Execution Finished 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" >
+	<parameter name="browserVer" value="chrome" />
+	<parameter name="baseURL" value="http://st9.idsil.com/test/baldev/woocommerce" />
+
+ 	<listeners>
+		<listener class-name="com.ids.store.utilities.TestListener" />		
+	<listener class-name="com.ids.store.utilities.ExtentReporterNG" /> 
+
+	</listeners>
+	
+
+
+	<!--    	 <test name="exampletest1">
+		<classes>
+			  <parameter name="browserVer" value="internet explorer" />	
+			  <class name="application.admin.tests.RoleManagementTests" />	
+			<class name="application.admin.tests.UserManagementTests" />
+		</classes>
+	</test>  --> 
+	
+   		<test name="WOOCOMMERCE STORE">
+		<classes>
+			  <parameter name="browserVer" value="chrome" />
+		 	  <class name="com.ids.store.pom.Tests.HomeTests" />	
+		
+		</classes>
+	</test>
+   		
+   		
+</suite> 
+
+
